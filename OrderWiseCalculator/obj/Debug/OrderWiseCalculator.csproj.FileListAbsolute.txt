@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\bin\Debug\OrderWiseCalculator.exe.config
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\bin\Debug\OrderWiseCalculator.exe
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\bin\Debug\OrderWiseCalculator.pdb
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\obj\Debug\OrderWiseCalculator.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\obj\Debug\OrderWiseCalculator.frmMain.resources
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\obj\Debug\OrderWiseCalculator.Properties.Resources.resources
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\obj\Debug\OrderWiseCalculator.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\obj\Debug\OrderWiseCalculator.exe
+C:\inetpub\wwwroot\OrderWiseCalculator\OrderWiseCalculator\obj\Debug\OrderWiseCalculator.pdb
